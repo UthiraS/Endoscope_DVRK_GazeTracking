@@ -10,6 +10,8 @@
 For this project, the following software dependencies are required:
 ```
 Unity 3D 2020+
+C# 
+TCP Communication
 Anaconda 
 Python 3.7
 Torch 1.7.1
